@@ -1,10 +1,10 @@
 import React from 'react';
-import Navbar from 'react-bootstrap/NavbarBrand'
+import Nav from './Components/Nav/index'
 import './App.css';
 
 function App() {
   return (
-   <Navbar></Navbar>
+   <Nav />
   );
 }
 
