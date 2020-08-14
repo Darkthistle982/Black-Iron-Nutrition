@@ -13,6 +13,17 @@ function Footer() {
           login, or any of the content of this site to unauthorized parties is
           strictly forbidden, and may result in a loss of access to the site.
         </p>
+        <hr />
+        <div className="">
+          Icons made by{" "}
+          <a href="https://smashicons.com/" title="Smashicons">
+            Smashicons
+          </a>{" "}
+          from{" "}
+          <a href="https://www.flaticon.com/" title="Flaticon">
+            www.flaticon.com
+          </a>
+        </div>
       </Jumbotron>
     </footer>
   );
