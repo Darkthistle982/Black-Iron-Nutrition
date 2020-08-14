@@ -5,7 +5,7 @@ import "./index.css";
 
 const HomePage = () => {
   return (
-    <Container fluid className="mt-2">
+    <Container className="mt-2 p-3">
       <Carousel hover="true">
         <Carousel.Item>
           <img
@@ -41,7 +41,10 @@ const HomePage = () => {
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
+      <br/>
     </Container>
+
+
   );
 };
 

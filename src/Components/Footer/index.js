@@ -14,7 +14,7 @@ function Footer() {
           strictly forbidden, and may result in a loss of access to the site.
         </p>
         <hr />
-        <div className="">
+        <div className="text-center">
           Icons made by{" "}
           <a href="https://smashicons.com/" title="Smashicons">
             Smashicons
